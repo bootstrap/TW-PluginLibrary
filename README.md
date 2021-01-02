@@ -9,15 +9,15 @@ https://kookma.github.io/TW-PluginLibrary/
 
 Some of useful plugins in this library are
 
-1. Tiddler Commander
-2. Shiraz
-3. Todo list
-4. Trashbin
-5. Favorites
-6. Searchwikis
-7. Utility
-8. Slider
-9. Pinboard
+ 1. Tiddler Commander
+ 2. Shiraz
+ 3. Todo list
+ 4. Trashbin
+ 5. Favorites
+ 6. Searchwikis
+ 7. Utility
+ 8. Slider
+ 9. Pinboard
 10. Timelines
 11. TOC
 

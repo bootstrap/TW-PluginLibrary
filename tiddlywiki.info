@@ -1,5 +1,5 @@
 {
-	"description": "TiddlyWiki Plugin Library",
+	"description": "Kookma Plugin Library",
 	"plugins": [
 		"tiddlywiki/pluginlibrary",
         "kookma/commander",
